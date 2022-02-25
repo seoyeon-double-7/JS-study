@@ -29,8 +29,8 @@ github링크(필수x) , check에 체크하기!
 |Day|양|check|
 |------|---|---|
 |day1|파트1. 시작하기<br>파트2. 변수|[✅](https://github.com/seoyeon-double-7/js-study)|
-|day2|파트3. 자료형| |
-|day3|파트4. 연산자와 함수| |
+|day2|파트3. 자료형|✅|
+|day3|파트4. 연산자와 함수|✅|
 |day4|파트5. String<br>파트6. 배열| |
 |day5|파트5. String<br>파트6. 배열| |
 |day6|파트9. 반복문 (while, for)| |
