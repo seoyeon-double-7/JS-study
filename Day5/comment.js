@@ -3,7 +3,7 @@
 var name = prompt("이름을 입력해 주세요");
 
 var msg = "당신의 이름은" + name + " 입니다." +
-        name + "님의 이름은" + name.lnegth + "글자 입니다."
+        name + "님의 이름은" + name.length + "글자 입니다."
 
 // console.log(msg) 콘솔에서 msg 출력
 alert(msg);
