@@ -1,4 +1,5 @@
 # js-study
+[![wakatime](https://wakatime.com/badge/github/seoyeon-double-7/js-study.svg)](https://wakatime.com/badge/github/seoyeon-double-7/js-study)
 ##  JS Coding Study Club
 > #### 2022년 **h1 코딩 스터디**입니다.  
 > <img src="https://user-images.githubusercontent.com/83990943/155077405-5d0eaecf-9ed8-42d7-8dc5-2eda6bd1a0e4.png" width="200px">
